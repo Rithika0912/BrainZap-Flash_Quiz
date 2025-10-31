@@ -141,8 +141,26 @@
         backgroundMusic.play();
       }
     });
+     function loadNextSet() {
+      const start = currentSetIndex * QUESTIONS_PER_SET;
+      const end = start + QUESTIONS_PER_SET;
+      questions = allQuestions.slice(start, end);
 
+      if (questions.length === 0) {
+        document.getElementById('quiz-box').innerHTML = `
+          <h1>🎉 You've Completed All Sets! 🎉</h1>
+          <p class="question">Amazing effort! 💪</p>
+          <button onclick="restartGame()">🔁 Restart from Beginning</button>
+        `;
+        fadeOutMusic(backgroundMusic);
+        return;
+      }
 
+      current = 0;
+      score = 0;
+      document.getElementById('score').innerText = score;
+      showQuestion();
+    }
     function showQuestion() {
       if (questions.length === 0) {
         document.body.style.backgroundColor = "#ffcccc";
