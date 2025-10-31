@@ -126,7 +126,8 @@
     const wrongSound = new Audio('/static/sounds/wrong.mp3');
     const completionSound = new Audio('/static/sounds/success.mp3');
     const backgroundMusic = document.getElementById('background-music');
-
+    const failSound = new Audio('/static/sounds/fail.mp3');
+    const levelCompleted=new Audio('/static/sounds/level_completed.mp3');
     // 🎵 Start background music when page loads or user interacts
     function startMusic() {
       backgroundMusic.volume = 0.4;
@@ -153,6 +154,7 @@
           <button onclick="restartGame()">🔁 Restart from Beginning</button>
         `;
         fadeOutMusic(backgroundMusic);
+        
         return;
       }
 
@@ -163,29 +165,37 @@
     }
     function showQuestion() {
       if (questions.length === 0) {
-        document.body.style.backgroundColor = "#ffcccc";
-        document.getElementById('quiz-box').innerHTML = `
-          <h1>😔 No Questions Loaded! 😔</h1>
-          <p class="question">Please check the server logs or question data.</p>
-          <button onclick="location.reload()">🔄 Try Again</button>
-        `;
-        console.error("No questions loaded.");
-        return;
-      }
+      document.body.style.backgroundColor = "#ffcccc";
+      document.getElementById('quiz-box').innerHTML = `
+        <h1>😔 No Questions Loaded! 😔</h1>
+        <p class="question">Please check the server logs or question data.</p>
+        <button onclick="location.reload()">🔄 Try Again</button>
+      `;
+      return;
+    }
 
-      // ✅ All questions done
-      if (current >= questions.length) {
-        document.body.style.backgroundColor = "#e1bee7";
-        fadeOutMusic(backgroundMusic);
+    // ✅ All questions done
+    if (current >= questions.length) {
+      document.body.style.backgroundColor = "#e1bee7";
+      fadeOutMusic(backgroundMusic);
+
+      // 🎯 If score = 0, play fail sound instead of success
+      if (score === 0) {
+        failSound.play();
+      }else if(score!==10){
+        levelCompleted.play();
+      } 
+      else {
         completionSound.play();
-        document.getElementById('quiz-box').innerHTML = `
-          <h1>🎉 Great Job! 🎉</h1>
-          <p class="question">You scored <strong>${score}</strong> out of ${questions.length}</p>
-          <button onclick="location.href='/'">🔄 Play Again</button>
-        `;
-        return;
       }
 
+      document.getElementById('quiz-box').innerHTML = `
+        <h1>🎉 Great Job! 🎉</h1>
+        <p class="question">You scored <strong>${score}</strong> out of ${questions.length}</p>
+        <button onclick="location.href='/'">🔄 Play Again</button>
+      `;
+      return;
+    }
       const q = questions[current];
       document.getElementById('question').innerText = q.Question;
 
