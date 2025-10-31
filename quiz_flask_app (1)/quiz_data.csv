@@ -1,108 +1,108 @@
 Question,Answer,Option1,Option2,Option3,Option4,Category,Difficulty
-What is the capital of France?,Paris,Rome,Paris,Berlin,Madrid,Geography,Easy
-Who is the CEO of Tesla?,Elon Musk,Jeff Bezos,Tim Cook,Sundar Pichai,Elon Musk,Business,Medium
-What is the chemical symbol for water?,H2O,CO2,O2,N2,H2O,Chemistry,Easy
-Who wrote "Romeo and Juliet"?,William Shakespeare,Charles Dickens,Jane Austen,William Shakespeare,Leo Tolstoy,Literature,Medium
-What is 5 + 7?,12,10,12,13,15,Math,Easy
-Who invented the light bulb?,Thomas Edison,Isaac Newton,Thomas Edison,Alexander Graham Bell,Nikola Tesla,History,Medium
-What is the largest planet in our Solar System?,Jupiter,Earth,Saturn,Mars,Jupiter,Astronomy,Hard
-Who developed the theory of relativity?,Albert Einstein,Isaac Newton,Stephen Hawking,Marie Curie,Albert Einstein,Science,Hard
-What is the longest river in the world?,Nile,Amazon,Yangtze,Nile,Mississippi,Geography,Medium
-Who discovered penicillin?,Alexander Fleming,Alexander Fleming,Marie Curie,Louis Pasteur,Gregor Mendel,Medicine,Hard
+What is the capital of France?,Paris,Berlin,Madrid,Paris,Rome,Geography,Easy
+Who is the CEO of Tesla?,Elon Musk,Tim Cook,Jeff Bezos,Elon Musk,Sundar Pichai,Business,Medium
+What is the chemical symbol for water?,H2O,O2,H2O,CO2,N2,Chemistry,Easy
+"Who wrote ""Romeo and Juliet""?",William Shakespeare,Leo Tolstoy,William Shakespeare,Jane Austen,Charles Dickens,Literature,Medium
+What is 5 + 7?,12,12,10,13,15,Math,Easy
+Who invented the light bulb?,Thomas Edison,Alexander Graham Bell,Thomas Edison,Isaac Newton,Nikola Tesla,History,Medium
+What is the largest planet in our Solar System?,Jupiter,Earth,Mars,Saturn,Jupiter,Astronomy,Hard
+Who developed the theory of relativity?,Albert Einstein,Isaac Newton,Stephen Hawking,Albert Einstein,Marie Curie,Science,Hard
+What is the longest river in the world?,Nile,Yangtze,Amazon,Mississippi,Nile,Geography,Medium
+Who discovered penicillin?,Alexander Fleming,Marie Curie,Gregor Mendel,Louis Pasteur,Alexander Fleming,Medicine,Hard
 What is the smallest prime number?,2,2,1,3,5,Math,Easy
-What gas do plants absorb?,Carbon Dioxide,Carbon Dioxide,Oxygen,Nitrogen,Helium,Science,Easy
-How many continents are there?,7,7,5,6,8,Geography,Easy
-Which planet is known as the Red Planet?,Mars,Mars,Jupiter,Saturn,Venus,Astronomy,Easy
-What is the square root of 64?,8,8,6,7,9,Math,Medium
-Who painted the Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,Michelangelo,Picasso,Van Gogh,Art,Medium
-In which year did World War II end?,1945,1945,1942,1939,1950,History,Hard
+What gas do plants absorb?,Carbon Dioxide,Helium,Oxygen,Nitrogen,Carbon Dioxide,Science,Easy
+How many continents are there?,7,5,8,7,6,Geography,Easy
+Which planet is known as the Red Planet?,Mars,Saturn,Jupiter,Venus,Mars,Astronomy,Easy
+What is the square root of 64?,8,9,6,8,7,Math,Medium
+Who painted the Mona Lisa?,Leonardo da Vinci,Picasso,Leonardo da Vinci,Van Gogh,Michelangelo,Art,Medium
+In which year did World War II end?,1945,1939,1942,1950,1945,History,Hard
 Which language has the most native speakers?,Mandarin,Mandarin,English,Spanish,Hindi,Language,Hard
-How many players are there in a football team?,11,11,10,12,9,Sports,Easy
-What is the boiling point of water in Celsius?,100,100,90,80,120,Chemistry,Easy
+How many players are there in a football team?,11,11,9,12,10,Sports,Easy
+What is the boiling point of water in Celsius?,100,80,90,120,100,Chemistry,Easy
 Who is the author of Harry Potter?,J.K. Rowling,J.K. Rowling,Stephen King,Roald Dahl,Suzanne Collins,Literature,Easy
-What is the currency of Japan?,Yen,Yen,Won,Renminbi,Rupee,Economics,Medium
-What is the tallest mountain in the world?,Mount Everest,Mount Everest,K2,Kangchenjunga,Lhotse,Geography,Medium
-What does DNA stand for?,Deoxyribonucleic Acid,Deoxyribonucleic Acid,Ribonucleic Acid,Dinucleic Acid,Nucleic Protein,Biology,Hard
-How many sides does a hexagon have?,6,6,5,7,8,Math,Easy
-Which animal is known as the king of the jungle?,Lion,Lion,Tiger,Elephant,Leopard,Biology,Easy
-Which is the fastest land animal?,Cheetah,Cheetah,Lion,Horse,Leopard,Biology,Medium
-Who was the first man on the moon?,Neil Armstrong,Neil Armstrong,Buzz Aldrin,Yuri Gagarin,Alan Shepard,History,Medium
-What is the national flower of India?,Lotus,Lotus,Rose,Jasmine,Marigold,Culture,Easy
-Which ocean is the largest?,Pacific Ocean,Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean,Geography,Medium
-What is the process by which plants make food?,Photosynthesis,Photosynthesis,Respiration,Transpiration,Germination,Biology,Easy
+What is the currency of Japan?,Yen,Renminbi,Rupee,Yen,Won,Economics,Medium
+What is the tallest mountain in the world?,Mount Everest,K2,Kangchenjunga,Mount Everest,Lhotse,Geography,Medium
+What does DNA stand for?,Deoxyribonucleic Acid,Dinucleic Acid,Ribonucleic Acid,Nucleic Protein,Deoxyribonucleic Acid,Biology,Hard
+How many sides does a hexagon have?,6,8,6,5,7,Math,Easy
+Which animal is known as the king of the jungle?,Lion,Leopard,Elephant,Tiger,Lion,Biology,Easy
+Which is the fastest land animal?,Cheetah,Leopard,Cheetah,Lion,Horse,Biology,Medium
+Who was the first man on the moon?,Neil Armstrong,Yuri Gagarin,Buzz Aldrin,Alan Shepard,Neil Armstrong,History,Medium
+What is the national flower of India?,Lotus,Jasmine,Marigold,Rose,Lotus,Culture,Easy
+Which ocean is the largest?,Pacific Ocean,Arctic Ocean,Pacific Ocean,Atlantic Ocean,Indian Ocean,Geography,Medium
+What is the process by which plants make food?,Photosynthesis,Transpiration,Germination,Photosynthesis,Respiration,Biology,Easy
 Who invented the telephone?,Alexander Graham Bell,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Michael Faraday,History,Medium
-What is the smallest unit of life?,Cell,Cell,Atom,Molecule,Organ,Science,Easy
-Which country is known as the Land of the Rising Sun?,Japan,Japan,China,South Korea,Thailand,Geography,Easy
-What is the hardest natural substance on Earth?,Diamond,Diamond,Gold,Iron,Platinum,Geology,Medium
-Which element has the chemical symbol 'O'?,Oxygen,Oxygen,Gold,Silver,Hydrogen,Chemistry,Easy
-Who painted the Sistine Chapel ceiling?,Michelangelo,Michelangelo,Leonardo da Vinci,Raphael,Donatello,Art,Hard
-What is the largest mammal?,Blue Whale,Blue Whale,Elephant,Giraffe,Hippopotamus,Biology,Easy
-What does CPU stand for in computers?,Central Processing Unit,Central Processing Unit,Computer Personal Unit,Central Performance Unit,Computer Processing Unit,Technology,Medium
-What is the main gas found in the air we breathe?,Nitrogen,Nitrogen,Oxygen,Carbon Dioxide,Hydrogen,Science,Easy
-Which planet is closest to the Sun?,Mercury,Mercury,Venus,Earth,Mars,Astronomy,Easy
-What year did the Titanic sink?,1912,1912,1905,1920,1898,History,Medium
-Which vitamin is produced when a person is exposed to sunlight?,Vitamin D,Vitamin D,Vitamin A,Vitamin C,Vitamin B12,Health,Easy
-What is the capital of Australia?,Canberra,Canberra,Sydney,Melbourne,Perth,Geography,Medium
-Who wrote "The Odyssey"?,Homer,Homer,Virgil,Sophocles,Euripides,Literature,Hard
-What is the largest desert in the world?,Sahara,Sahara,Arabian,Gobi,Kalahari,Geography,Medium
-Which is the smallest continent?,Australia,Australia,Europe,Antarctica,South America,Geography,Easy
-What is the freezing point of water?,0,0,32,-1,100,Chemistry,Easy
-Who discovered gravity?,Isaac Newton,Isaac Newton,Albert Einstein,Galileo Galilei,Nikola Tesla,Science,Medium
-What currency is used in the United Kingdom?,Pound,Pound,Euro,Dollar,Yen,Economics,Easy
-Which blood type is known as the universal donor?,O negative,O negative,O positive,AB positive,AB negative,Biology,Hard
-What is the chemical formula for table salt?,NaCl,NaCl,KCl,CaCl2,MgCl2,Chemistry,Easy
-How many bones are there in the adult human body?,206,206,201,210,198,Biology,Medium
-What is the name of the longest river in South America?,Amazon,Amazon,Nile,Mississippi,Yangtze,Geography,Medium
-Who is known as the Father of Computers?,Charles Babbage,Charles Babbage,Alan Turing,John Von Neumann,Bill Gates,Technology,Hard
-What language do they speak in Brazil?,Portuguese,Portuguese,Spanish,French,English,Language,Easy
-What is the tallest building in the world?,Burj Khalifa,Burj Khalifa,Shanghai Tower,One World Trade Center,Petronas Towers,Geography,Hard
-Who was the first president of the United States?,George Washington,George Washington,Thomas Jefferson,Abraham Lincoln,John Adams,History,Easy
-What does HTTP stand for?,HyperText Transfer Protocol,HyperText Transfer Protocol,High Transfer Text Protocol,Hyper Transfer Text Process,Hyper Transfer Text Protocol,Technology,Medium
-Which country gifted the Statue of Liberty to the USA?,France,France,England,Spain,Italy,History,Medium
-What is the capital city of Canada?,Ottawa,Ottawa,Toronto,Vancouver,Montreal,Geography,Easy
-How many planets are in our Solar System?,8,8,7,9,10,Astronomy,Easy
+What is the smallest unit of life?,Cell,Organ,Cell,Molecule,Atom,Science,Easy
+Which country is known as the Land of the Rising Sun?,Japan,China,Japan,South Korea,Thailand,Geography,Easy
+What is the hardest natural substance on Earth?,Diamond,Gold,Platinum,Iron,Diamond,Geology,Medium
+Which element has the chemical symbol 'O'?,Oxygen,Gold,Silver,Hydrogen,Oxygen,Chemistry,Easy
+Who painted the Sistine Chapel ceiling?,Michelangelo,Donatello,Michelangelo,Leonardo da Vinci,Raphael,Art,Hard
+What is the largest mammal?,Blue Whale,Elephant,Giraffe,Blue Whale,Hippopotamus,Biology,Easy
+What does CPU stand for in computers?,Central Processing Unit,Computer Processing Unit,Central Processing Unit,Central Performance Unit,Computer Personal Unit,Technology,Medium
+What is the main gas found in the air we breathe?,Nitrogen,Hydrogen,Oxygen,Carbon Dioxide,Nitrogen,Science,Easy
+Which planet is closest to the Sun?,Mercury,Mercury,Venus,Mars,Earth,Astronomy,Easy
+What year did the Titanic sink?,1912,1898,1905,1912,1920,History,Medium
+Which vitamin is produced when a person is exposed to sunlight?,Vitamin D,Vitamin A,Vitamin D,Vitamin B12,Vitamin C,Health,Easy
+What is the capital of Australia?,Canberra,Canberra,Melbourne,Perth,Sydney,Geography,Medium
+"Who wrote ""The Odyssey""?",Homer,Homer,Virgil,Sophocles,Euripides,Literature,Hard
+What is the largest desert in the world?,Sahara,Kalahari,Gobi,Sahara,Arabian,Geography,Medium
+Which is the smallest continent?,Australia,South America,Antarctica,Europe,Australia,Geography,Easy
+What is the freezing point of water?,0,100,-1,0,32,Chemistry,Easy
+Who discovered gravity?,Isaac Newton,Nikola Tesla,Galileo Galilei,Isaac Newton,Albert Einstein,Science,Medium
+What currency is used in the United Kingdom?,Pound,Yen,Dollar,Euro,Pound,Economics,Easy
+Which blood type is known as the universal donor?,O negative,AB positive,AB negative,O negative,O positive,Biology,Hard
+What is the chemical formula for table salt?,NaCl,KCl,MgCl2,CaCl2,NaCl,Chemistry,Easy
+How many bones are there in the adult human body?,206,210,198,201,206,Biology,Medium
+What is the name of the longest river in South America?,Amazon,Yangtze,Mississippi,Nile,Amazon,Geography,Medium
+Who is known as the Father of Computers?,Charles Babbage,John Von Neumann,Alan Turing,Bill Gates,Charles Babbage,Technology,Hard
+What language do they speak in Brazil?,Portuguese,English,Portuguese,Spanish,French,Language,Easy
+What is the tallest building in the world?,Burj Khalifa,Petronas Towers,Burj Khalifa,One World Trade Center,Shanghai Tower,Geography,Hard
+Who was the first president of the United States?,George Washington,John Adams,Thomas Jefferson,George Washington,Abraham Lincoln,History,Easy
+What does HTTP stand for?,HyperText Transfer Protocol,Hyper Transfer Text Protocol,HyperText Transfer Protocol,Hyper Transfer Text Process,High Transfer Text Protocol,Technology,Medium
+Which country gifted the Statue of Liberty to the USA?,France,France,England,Italy,Spain,History,Medium
+What is the capital city of Canada?,Ottawa,Toronto,Ottawa,Vancouver,Montreal,Geography,Easy
+How many planets are in our Solar System?,8,10,8,9,7,Astronomy,Easy
 What is the main ingredient in guacamole?,Avocado,Avocado,Tomato,Onion,Lime,Culture,Easy
-Who painted "Starry Night"?,Vincent van Gogh,Vincent van Gogh,Pablo Picasso,Claude Monet,Leonardo da Vinci,Art,Medium
-What gas is most abundant in the Earth's atmosphere?,Nitrogen,Nitrogen,Oxygen,Carbon Dioxide,Argon,Science,Easy
-Which organ in the human body filters blood?,Kidneys,Kidneys,Liver,Heart,Lungs,Biology,Medium
-Who was known as the "Maid of Orleans"?,Joan of Arc,Joan of Arc,Marie Curie,Cleopatra,Queen Victoria,History,Medium
-What is the term for animals that eat both plants and meat?,Omnivores,Omnivores,Herbivores,Carnivores,Detritivores,Biology,Easy
-Which instrument measures atmospheric pressure?,Barometer,Barometer,Thermometer,Hygrometer,Anemometer,Science,Medium
-What is the speed of light?,299,792 km/s,299,792 km/s,150,000 km/s,1,000 km/s,300,000 km/s,Science,Hard
-What is the largest ocean on Earth?,Pacific Ocean,Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean,Geography,Easy
-Who invented the World Wide Web?,Tim Berners-Lee,Tim Berners-Lee,Bill Gates,Steve Jobs,Larry Page,Technology,Medium
-What is the chemical symbol for gold?,Au,Au,Ag,Fe,Pb,Chemistry,Easy
-Which city hosted the 2016 Summer Olympics?,Rio de Janeiro,Rio de Janeiro,London,Tokyo,Beijing,Sports,Medium
-What is the name of the longest bone in the human body?,Femur,Femur,Tibia,Humerus,Fibula,Biology,Easy
-How many rings are there on the Olympic flag?,5,5,4,6,7,Culture,Easy
-What is the currency of Egypt?,Egyptian Pound,Egyptian Pound,Dinar,Dirham,Rupee,Economics,Medium
-Who is the author of "1984"?,George Orwell,George Orwell,Aldous Huxley,Ray Bradbury,Kurt Vonnegut,Literature,Hard
-Which gas do humans need to breathe?,Oxygen,Oxygen,Carbon Dioxide,Nitrogen,Helium,Science,Easy
-What does GPS stand for?,Global Positioning System,Global Positioning System,Geographic Positioning Satellite,Global Position Satellite,General Position System,Technology,Medium
-What is the freezing point of water in Fahrenheit?,32,32,0,100,-32,Chemistry,Easy
-Which planet has rings?,Saturn,Saturn,Mars,Jupiter,Venus,Astronomy,Easy
-Who discovered America?,Christopher Columbus,Christopher Columbus,Leif Erikson,Vasco da Gama,Ferdinand Magellan,History,Medium
-What is the main language spoken in Canada?,English,English,French,Spanish,Italian,Language,Easy
-Which animal is known for changing its color?,Chameleon,Chameleon,Octopus,Frog,Butterfly,Biology,Medium
-What is the name of the galaxy that contains our Solar System?,Milky Way,Milky Way,Andromeda,Whirlpool,Sombrero,Astronomy,Hard
-Who invented penicillin?,Alexander Fleming,Alexander Fleming,Louis Pasteur,Marie Curie,Gregor Mendel,Medicine,Medium
-Which country has the largest population?,China,China,India,USA,Indonesia,Geography,Hard
-What is the basic unit of currency in the USA?,Dollar,Dollar,Euro,Pound,Yen,Economics,Easy
-What is the largest island in the world?,Greenland,Greenland,Madagascar,Borneo,Sicily,Geography,Medium
-Who painted "The Last Supper"?,Leonardo da Vinci,Leonardo da Vinci,Michelangelo,Raphael,Donatello,Art,Hard
-What is the most abundant element in the universe?,Hydrogen,Hydrogen,Helium,Oxygen,Carbon,Science,Hard
-Which ocean lies between Africa and Australia?,Indian Ocean,Indian Ocean,Atlantic Ocean,Pacific Ocean,Arctic Ocean,Geography,Medium
-What is the common name for sodium chloride?,Salt,Salt,Sugar,Baking Soda,Vinegar,Chemistry,Easy
-Which sport uses a shuttlecock?,Badminton,Badminton,Tennis,Squash,Table Tennis,Sports,Easy
-What is the hardest rock?,Diamond,Diamond,Granite,Marble,Limestone,Geology,Hard
-Who is the founder of Microsoft?,Bill Gates,Bill Gates,Steve Jobs,Mark Zuckerberg,Elon Musk,Technology,Easy
-What is the largest organ in the human body?,Skin,Skin,Liver,Heart,Lungs,Biology,Easy
-Which country is famous for the Eiffel Tower?,France,France,Italy,Germany,Spain,Geography,Easy
-What is the chemical formula of carbon dioxide?,CO2,CO2,O2,CO,CH4,Chemistry,Easy
-What does HIV stand for?,Human Immunodeficiency Virus,Human Immunodeficiency Virus,Human Immune Virus,Human Infectious Virus,Human Immunity Virus,Medicine,Hard
-Who wrote "To Kill a Mockingbird"?,Harper Lee,Harper Lee,J.K. Rowling,Jane Austen,Mark Twain,Literature,Medium
-What is the capital of South Korea?,Seoul,Seoul,Busan,Incheon,Daegu,Geography,Medium
+"Who painted ""Starry Night""?",Vincent van Gogh,Pablo Picasso,Vincent van Gogh,Claude Monet,Leonardo da Vinci,Art,Medium
+What gas is most abundant in the Earth's atmosphere?,Nitrogen,Carbon Dioxide,Nitrogen,Oxygen,Argon,Science,Easy
+Which organ in the human body filters blood?,Kidneys,Lungs,Heart,Kidneys,Liver,Biology,Medium
+"Who was known as the ""Maid of Orleans""?",Joan of Arc,Marie Curie,Cleopatra,Queen Victoria,Joan of Arc,History,Medium
+What is the term for animals that eat both plants and meat?,Omnivores,Detritivores,Carnivores,Herbivores,Omnivores,Biology,Easy
+Which instrument measures atmospheric pressure?,Barometer,Hygrometer,Barometer,Thermometer,Anemometer,Science,Medium
+What is the speed of light?,299,150,792 km/s,792 km/s,299,000 km/s,1
+What is the largest ocean on Earth?,Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,Geography,Easy
+Who invented the World Wide Web?,Tim Berners-Lee,Larry Page,Tim Berners-Lee,Steve Jobs,Bill Gates,Technology,Medium
+What is the chemical symbol for gold?,Au,Pb,Ag,Fe,Au,Chemistry,Easy
+Which city hosted the 2016 Summer Olympics?,Rio de Janeiro,London,Rio de Janeiro,Beijing,Tokyo,Sports,Medium
+What is the name of the longest bone in the human body?,Femur,Fibula,Tibia,Femur,Humerus,Biology,Easy
+How many rings are there on the Olympic flag?,5,5,4,7,6,Culture,Easy
+What is the currency of Egypt?,Egyptian Pound,Rupee,Dirham,Egyptian Pound,Dinar,Economics,Medium
+"Who is the author of ""1984""?",George Orwell,Ray Bradbury,Aldous Huxley,Kurt Vonnegut,George Orwell,Literature,Hard
+Which gas do humans need to breathe?,Oxygen,Helium,Oxygen,Carbon Dioxide,Nitrogen,Science,Easy
+What does GPS stand for?,Global Positioning System,Geographic Positioning Satellite,Global Position Satellite,Global Positioning System,General Position System,Technology,Medium
+What is the freezing point of water in Fahrenheit?,32,100,32,0,-32,Chemistry,Easy
+Which planet has rings?,Saturn,Saturn,Mars,Venus,Jupiter,Astronomy,Easy
+Who discovered America?,Christopher Columbus,Leif Erikson,Vasco da Gama,Christopher Columbus,Ferdinand Magellan,History,Medium
+What is the main language spoken in Canada?,English,Italian,Spanish,French,English,Language,Easy
+Which animal is known for changing its color?,Chameleon,Frog,Octopus,Butterfly,Chameleon,Biology,Medium
+What is the name of the galaxy that contains our Solar System?,Milky Way,Andromeda,Sombrero,Whirlpool,Milky Way,Astronomy,Hard
+Who invented penicillin?,Alexander Fleming,Alexander Fleming,Louis Pasteur,Gregor Mendel,Marie Curie,Medicine,Medium
+Which country has the largest population?,China,USA,Indonesia,India,China,Geography,Hard
+What is the basic unit of currency in the USA?,Dollar,Dollar,Pound,Euro,Yen,Economics,Easy
+What is the largest island in the world?,Greenland,Greenland,Borneo,Sicily,Madagascar,Geography,Medium
+"Who painted ""The Last Supper""?",Leonardo da Vinci,Raphael,Michelangelo,Donatello,Leonardo da Vinci,Art,Hard
+What is the most abundant element in the universe?,Hydrogen,Oxygen,Hydrogen,Carbon,Helium,Science,Hard
+Which ocean lies between Africa and Australia?,Indian Ocean,Pacific Ocean,Arctic Ocean,Indian Ocean,Atlantic Ocean,Geography,Medium
+What is the common name for sodium chloride?,Salt,Sugar,Salt,Baking Soda,Vinegar,Chemistry,Easy
+Which sport uses a shuttlecock?,Badminton,Badminton,Squash,Table Tennis,Tennis,Sports,Easy
+What is the hardest rock?,Diamond,Limestone,Marble,Diamond,Granite,Geology,Hard
+Who is the founder of Microsoft?,Bill Gates,Steve Jobs,Bill Gates,Mark Zuckerberg,Elon Musk,Technology,Easy
+What is the largest organ in the human body?,Skin,Liver,Heart,Skin,Lungs,Biology,Easy
+Which country is famous for the Eiffel Tower?,France,France,Spain,Germany,Italy,Geography,Easy
+What is the chemical formula of carbon dioxide?,CO2,O2,CO2,CH4,CO,Chemistry,Easy
+What does HIV stand for?,Human Immunodeficiency Virus,Human Immune Virus,Human Immunodeficiency Virus,Human Immunity Virus,Human Infectious Virus,Medicine,Hard
+"Who wrote ""To Kill a Mockingbird""?",Harper Lee,Mark Twain,J.K. Rowling,Harper Lee,Jane Austen,Literature,Medium
+What is the capital of South Korea?,Seoul,Busan,Seoul,Daegu,Incheon,Geography,Medium
 Which country is known as the Land of the Midnight Sun?,Norway,Norway,Sweden,Finland,Iceland,Geography,Hard
-What is the boiling point of ethanol?,78,78,100,65,90,Chemistry,Medium
-Who developed the polio vaccine?,Jonas Salk,Jonas Salk,Alexander Fleming,Marie Curie,Edward Jenner,Medicine,Medium
-What is the main ingredient in bread?,Flour,Flour,Rice,Corn,Wheat,Culture,Easy
+What is the boiling point of ethanol?,78,65,78,90,100,Chemistry,Medium
+Who developed the polio vaccine?,Jonas Salk,Alexander Fleming,Jonas Salk,Edward Jenner,Marie Curie,Medicine,Medium
+What is the main ingredient in bread?,Flour,Flour,Corn,Rice,Wheat,Culture,Easy
